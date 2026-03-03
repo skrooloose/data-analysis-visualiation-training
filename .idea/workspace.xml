@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48977276-3ff2-4fc8-a864-b1c605319b18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/data-analysis-visualiation-training.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generate_random_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integrated-exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duplicates_report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kra_after_deduplication.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kra_after_missing_values.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kra_after_standardization.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kra_after_vat_validation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kra_clean_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kra_dirty_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kra_dirty_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missing_values_report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/negative_vat_report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardization_report.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

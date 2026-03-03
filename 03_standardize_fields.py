@@ -37,7 +37,7 @@ rows_before = len(df)
 # NaN values are preserved (str accessor returns NaN for missing values).
 for col in COLUMNS_TO_STANDARDIZE:
     if col in df.columns:
-        df[col] = df[col].str.strip().str.title()
+        df[col] = df[col].str.strip().str.upper()
 
 # No rows are dropped in this scenario; we only transform values.
 df_clean = df
