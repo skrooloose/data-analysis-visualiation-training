@@ -1,0 +1,247 @@
+Taxpayer_Name,Taxpayer_PIN,Filing_Date,VAT_Paid,Sector,Region,Risk_Level
+Lopez PLC,P66611162,2025-06-12,32331.91,Retail,Kisumu,Low
+Gonzalez Ltd,P28684203,2025-11-11,11937.33,Retail,Eldort,Low
+Lee PLC,P62457022,2025-09-30,29934.13,Retail,Nairobi,Low
+"Evans, Fernandez and Powell",P39492443,2025-03-20,11713.26,Retail,Eldort,Low
+Golden-Gonzales,P59278244,2025-03-03,36084.96,Agriculture,Mombasa,Medium
+Smith-Hamilton,P70466547,2026-02-08,29874.02,Retail,Mombasa,High
+Vincent Group,P64290342,2025-11-02,21708.11,Services,Mombasa,Low
+Martin-Torres,P42401931,2025-09-04,47903.44,Services,Nairobi,Low
+Diaz LLC,P88489701,2025-09-19,19616.44,Services,Kisumu,High
+Atkins Group,P26075649,2025-07-04,13961.52,Retail,Nakuru,High
+Franco-Hutchinson,P15740684,2026-02-04,7116.48,Agriculture,Nairobi,High
+Ortega-Sutton,P83276238,2025-10-21,15365.74,Services,Eldort,Low
+"Guerrero, Brown and Mitchell",P22666056,2025-12-09,35524.02,Retail,Mombasa,Medium
+Taylor-Jones,P73327159,2025-08-28,49275.85,Manufacturing,Nairobi,Medium
+Santiago-Wilkins,P56793990,2025-08-12,14620.71,Services,Mombasa,Medium
+Roberson and Sons,P67409630,2025-03-06,18408.26,Services,Nairobi,High
+"Dunn, Williams and Mitchell",P57745593,2026-02-19,32113.94,Manufacturing,Mombasa,Medium
+Miller Group,P86555556,2025-03-16,19593.32,Manufacturing,Kisumu,Low
+"Duran, Proctor and Huang",P65789101,2025-03-30,12223.36,Retail,Kisumu,Medium
+"Henderson, Torres and Smith",P85525202,2025-07-02,14119.3,Manufacturing,Eldort,High
+Hampton-Davis,P66800072,2025-10-27,16419.22,Agriculture,Nakuru,High
+Arias-Daniels,P01618354,2025-09-19,23483.74,Services,Mombasa,Low
+Reed PLC,P61525096,2025-07-17,37504.46,Services,Eldort,Medium
+Morris PLC,P75168417,2025-07-26,44993.32,Agriculture,Kisumu,Low
+Taylor-Allen,P58522245,2025-10-05,49868.96,Manufacturing,Eldort,Medium
+King-Foster,P88239878,2026-01-23,5454.56,Retail,Nairobi,Low
+Chang PLC,P56803176,2025-05-29,31744.86,Agriculture,Eldort,Low
+Rodriguez-Myers,P19383496,2025-09-20,19853.6,Agriculture,Eldort,Medium
+Moore LLC,P72951117,2025-04-22,48582.84,Retail,Nairobi,High
+Johnson and Sons,P50069543,2025-03-04,44354.63,Services,Kisumu,Low
+"Robinson, Mckay and Jefferson",P64700466,2025-12-15,15381.51,Manufacturing,Nakuru,Low
+"Jones, Mendoza and Guzman",P20454447,2025-04-01,47736.98,Services,Eldort,Low
+"Ross, Huff and Neal",P59743030,2025-07-06,25876.4,Retail,Kisumu,High
+"Garcia, Harris and Cole",P85602116,2025-09-27,25875.48,Manufacturing,Mombasa,Medium
+Brown-White,P17060892,2025-03-16,38363.03,Retail,Eldort,Medium
+"Campbell, Miles and Walters",P01206753,2025-09-25,24941.68,Retail,Kisumu,Medium
+Fry-Trujillo,P36142716,2025-10-04,12733.16,Manufacturing,Eldort,Low
+Williams and Sons,P12924026,2025-04-24,5197.02,Agriculture,Nairobi,High
+Griffith and Sons,P25676103,2025-08-14,38525.89,Manufacturing,Nakuru,High
+Moreno and Sons,P52909694,2025-04-15,9091.22,Agriculture,Mombasa,High
+Olson Group,P76964812,2025-05-17,38007.99,Manufacturing,Kisumu,Medium
+"Jones, Brooks and Howell",P54617798,2026-01-21,49762.32,Services,Nakuru,High
+Gregory and Sons,P96403490,2025-10-02,23122.82,Manufacturing,Mombasa,Low
+Reynolds-Pratt,P28784596,2025-12-27,17566.19,Manufacturing,Eldort,Low
+"Houston, Alvarez and Sanchez",P94621175,2025-08-17,1352.35,Retail,Mombasa,Low
+"Wilson, Wright and Williams",P72353815,2025-10-03,45365.58,Services,Nairobi,High
+Mitchell and Sons,P22091894,2025-05-20,12662.23,Agriculture,Mombasa,High
+"Glass, Wallace and Booth",P18417709,2026-01-25,7483.28,Agriculture,Mombasa,Medium
+Hall and Sons,P26748690,2025-05-06,40567.35,Manufacturing,Nairobi,Low
+"Campbell, Shea and Smith",P01424536,2025-03-31,33290.15,Services,Nakuru,Medium
+Mitchell Inc,P85014696,2025-06-03,23884.21,Retail,Nairobi,Low
+"Owens, Hill and Williams",P78084045,2025-04-11,20728.44,Services,Nairobi,Low
+Watts-Lee,P30702071,2025-07-16,10387.91,Agriculture,Mombasa,Medium
+Morton-Davis,P37505050,2025-06-17,9990.91,Agriculture,Mombasa,Low
+Harvey-Hawkins,P21795146,2025-08-09,22713.41,Retail,Nairobi,High
+"Nichols, Rodriguez and Jones",P19670400,2025-07-08,49964.84,Retail,Nairobi,Low
+Hatfield PLC,P25400852,2026-02-26,9149.24,Agriculture,Nakuru,Low
+"Mejia, Gibson and Tyler",P44672118,2025-07-23,43367.87,Retail,Mombasa,Medium
+Burton-Patrick,P47825446,2025-12-21,1105.61,Agriculture,Kisumu,Medium
+King PLC,P36294937,2025-07-08,14977.21,Agriculture,Mombasa,Low
+Hamilton-Robinson,P83257718,2025-05-14,15538.68,Retail,Eldort,High
+Roberts-Rice,P72171253,2026-01-13,27567.56,Services,Nairobi,Low
+"Patterson, Hall and Lee",P03195443,2025-06-09,29624.7,Manufacturing,Nairobi,High
+"Smith, Hodge and Jones",P81889733,2025-05-29,4925.46,Manufacturing,Nairobi,High
+Perkins Inc,P80288900,2025-03-14,4330.08,Manufacturing,Nakuru,Low
+Suarez-Martinez,P26327890,2025-11-07,47138.21,Manufacturing,Eldort,High
+"Garcia, Garcia and Lewis",P66810947,2025-12-17,2947.34,Retail,Nakuru,High
+Jackson and Sons,P71855522,2025-11-07,29599.94,Services,Kisumu,Low
+"Yates, Davis and Erickson",P18797202,2025-12-25,33816.57,Services,Mombasa,Medium
+"Martin, Miller and Ray",P23506351,2025-08-26,20393.51,Services,Nakuru,Medium
+Hoover and Sons,P36054616,2025-11-13,46521.9,Retail,Nairobi,Medium
+"Taylor, Fields and Brown",P88083254,2025-10-23,31436.8,Retail,Nairobi,High
+"Carey, Smith and Perry",P61298139,2026-01-26,11444.56,Services,Mombasa,Medium
+"Walker, Mclaughlin and Benitez",P71301413,2025-05-09,44162.34,Manufacturing,Kisumu,Medium
+"Morales, Rodriguez and Rodriguez",P52211764,2025-04-29,8729.59,Services,Eldort,High
+"Harrison, Lucero and Morales",P05810705,2025-11-06,26918.09,Services,Nairobi,Low
+"Farley, Smith and Kim",P24217858,2025-07-09,13958.83,Retail,Eldort,Low
+"Greene, Mcbride and Jackson",P64475566,2025-04-11,14345.06,Manufacturing,Kisumu,Low
+Baker LLC,P22294396,2025-09-08,34687.36,Services,Eldort,Medium
+"Rice, Hernandez and Mitchell",P70527425,2025-06-27,13304.94,Retail,Nairobi,High
+Lynch LLC,P16270549,2025-05-17,21755.21,Services,Nairobi,Low
+Morgan LLC,P86323041,2025-09-17,17344.27,Manufacturing,Kisumu,Low
+Bishop Inc,P68861851,2026-01-31,37320.31,Agriculture,Eldort,Low
+Diaz Inc,P28845067,2025-05-30,6481.82,Manufacturing,Eldort,Low
+Martinez-Salinas,P21078619,2025-03-22,41895.16,Manufacturing,Nakuru,Low
+Roberts-Silva,P39449286,2025-12-29,3049.61,Services,Nairobi,Medium
+Morales-Hamilton,P07154775,2025-04-25,11293.75,Manufacturing,Nairobi,Medium
+"Nguyen, Robbins and Adams",P15034674,2025-09-08,39225.7,Agriculture,Eldort,High
+"Cox, Hale and Lee",P57339630,2025-05-17,8573.11,Manufacturing,Mombasa,Low
+Watkins Group,P98925445,2025-09-02,44189.39,Retail,Mombasa,High
+"Russell, Carpenter and Yoder",P33181496,2025-04-26,13160.19,retail,Nairobi,Low
+"Parker, Ray and Lee",P78584822,2025-12-26,11923.25,Agriculture,Nairobi,Medium
+"Howell, Rodriguez and Diaz",P94620842,2025-07-17,18846.85,services,Nairobi,Medium
+"Schmitt, Barr and Ortega",P51735981,2025-08-05,10400.16,Agriculture,Mombasa,Medium
+Williams-Terry,P70313726,2025-09-14,30726.42,Agriculture,Mombasa,High
+"Schneider, Blair and Martin",P56908204,2025-08-05,11723.22,Agriculture,MOMBASA,Low
+Johnson PLC,P00073045,2025-12-20,47551.94,Agriculture,Eldort,Low
+"Cordova, Leonard and Zamora",P55835930,2026-01-13,38524.87,Manufacturing,Nairobi,Low
+Johnson-Gonzalez,P17048281,2025-04-13,35003.54,Retail,Kisumu,Medium
+Yang-Welch,P74766855,2025-12-29,40193.54,Agriculture,Nakuru,Medium
+Saunders-Williams,P44814360,2025-03-05,7253.76,Retail,Eldort,Low
+Rogers PLC,P53579826,2026-01-29,3552.19,Manufacturing,Nairobi,Low
+Mcpherson-Mullen,P94534333,2025-09-28,30420.17,retail,Nakuru,Low
+"Burton, Howell and Hall",P16724636,2025-08-28,23778.81,Services,Mombasa,Low
+"Boyd, George and Hall",P39852901,2025-08-29,17483.43,Services,Mombasa,Medium
+Burke PLC,P39701365,2025-06-15,47455.07,agriculture,Mombasa,High
+Green LLC,P39870604,,12921.95,Services,Eldort,High
+Martinez LLC,P18866848,2025-07-24,12058.67,Agriculture,Kisumu,Medium
+Flores-Perry,P26632296,2025-08-17,11181.61,Retail,Mombasa,Low
+,P40382961,2025-09-13,35640.84,Agriculture,MOMBASA,High
+Herrera-Joseph,P88301134,2025-05-01,8300.48,Manufacturing,MOMBASA,High
+"Bradshaw, Knight and Griffith",P11824834,2025-07-09,-965.72,Retail,Kisumu,Low
+"Scott, Potts and Taylor",P51313946,2025-04-14,32104.45,Retail,Nakuru,High
+"Haney, Clark and Fuller",P89036339,2025-12-13,43599.01,Retail,Kisumu,Medium
+Sawyer LLC,P81118591,2025-04-20,22467.69,Retail,ELDORT,High
+"Stanley, Flowers and Gonzales",P01819626,2025-11-16,-993.03,Agriculture,Mombasa,High
+"Ingram, Hill and Li",P58908438,2025-07-20,23382.54,manufacturing,Eldort,Low
+"Washington, Wagner and Snow",P36923822,2025-06-02,25879.15,Services,Eldort,High
+Ramirez LLC,P84196300,2026-02-05,27628.07,Services,Mombasa,Low
+Williams Group,P33380663,2025-05-28,17099.71,Agriculture,Nakuru,Low
+"Rodriguez, Jones and Powell",P69347755,2025-10-08,5428.59,Retail,Kisumu,Low
+"Peters, Vasquez and Bailey",P00920743,2026-02-13,13444.89,Retail,Nakuru,High
+Perez-Lam,P42483294,2025-05-24,2075.04,Agriculture,Eldort,High
+Norris-Miller,P71929798,2025-06-29,39011.31,Services,Mombasa,High
+"Gomez, Mccarthy and Haas",P34560015,2025-04-14,31745.45,agriculture,KISUMU,Low
+Phillips-Silva,P92686693,2025-08-24,43946.57,Services,Kisumu,Medium
+Erickson-Jones,P03834095,2025-09-17,4689.67,Manufacturing,Nakuru,High
+"George, Morse and Wolf",P32187416,2025-05-04,44475.71,agriculture,Eldort,High
+Benson-Owen,P36648055,2025-07-12,47013.6,Services,Nakuru,Medium
+Christian Ltd,P67157497,2025-09-04,26148.66,manufacturing,Nairobi,High
+Buchanan Inc,P16828974,,27869.47,Services,Eldort,High
+"Hale, Martinez and Lewis",P92168567,2025-11-10,22073.43,Agriculture,Nakuru,High
+Black LLC,P57879207,2026-01-14,46226.27,retail,NAIROBI,Medium
+Thomas Inc,P12795225,2025-03-05,6989.33,Agriculture,Nairobi,High
+Garrett-Anderson,P33072219,2025-11-24,42516.47,Services,KISUMU,Medium
+Hoover Group,P64766744,2025-08-12,2286.44,Services,KISUMU,Medium
+Perez Group,P58941314,2025-04-08,11562.88,Services,Kisumu,High
+"Lam, Williams and Compton",P46175297,2025-03-22,12275.43,Services,NAIROBI,Medium
+Miller and Sons,P10464198,2025-07-18,21467.0,retail,Mombasa,High
+"Lee, Davis and Mann",P34161552,2025-10-18,22348.15,Retail,Kisumu,Low
+Mcdowell LLC,P35842040,2025-08-05,-956.16,Agriculture,Eldort,High
+Dawson-Huynh,P23427103,2025-03-21,-848.53,retail,Eldort,High
+Harrison-Thomas,P73295731,2025-10-10,32940.04,Agriculture,Nairobi,Medium
+Lewis LLC,P88989431,2025-05-02,33444.62,retail,Nakuru,Medium
+Howell Ltd,P93676240,2025-06-07,26793.27,Agriculture,Nairobi,Low
+"Cochran, Brown and Anderson",P48751480,2025-05-18,8592.31,Retail,Eldort,High
+,P07712095,2026-01-31,8950.11,Manufacturing,Nairobi,High
+"Thompson, Schroeder and Rivera",P16638924,2025-05-26,12466.14,Agriculture,Mombasa,High
+Johnson LLC,P98620219,2025-06-27,48347.14,Manufacturing,Nairobi,Medium
+Holmes-Estrada,P39028177,2025-08-05,38392.72,Manufacturing,Nairobi,Low
+"Rodriguez, Gutierrez and Zimmerman",P74826723,2025-08-04,19324.11,Retail,Nairobi,Low
+Flores LLC,P13579916,2025-10-29,41658.32,Manufacturing,Nakuru,Low
+"Sosa, Gomez and Turner",P38462101,2025-04-17,30240.21,manufacturing,Kisumu,High
+Hall-Bush,P91940261,2025-05-16,49060.14,Manufacturing,Nairobi,Medium
+Chen PLC,P03213346,,40253.7,Retail,ELDORT,Medium
+"Wright, Fisher and Miller",P30497087,2025-04-05,33724.15,Services,Mombasa,High
+Johnson LLC,P48687922,2025-12-19,7804.97,Retail,Eldort,High
+Brown LLC,P24532432,2025-10-31,32408.38,Manufacturing,Eldort,High
+"Bryant, Hawkins and Conway",P50859989,,47478.8,Services,Eldort,High
+,P11887852,2025-11-08,12999.02,Agriculture,Nairobi,Low
+Barrett Group,P50269357,2026-01-02,36199.78,Services,Mombasa,High
+Jackson Inc,P67519154,2025-11-06,38392.95,Agriculture,Kisumu,Low
+Francis-Carney,P29210641,2025-09-07,3476.48,Agriculture,Nairobi,Medium
+Martin-Haley,P66454068,2025-08-20,3506.73,Services,Nairobi,Medium
+"Church, Brown and Wolf",P95008094,2025-03-11,48779.06,Services,Kisumu,Low
+"Farmer, Valdez and Reeves",P24472564,2025-03-20,30092.51,Agriculture,Kisumu,Low
+Lopez-Flores,P73466503,2025-08-25,36540.89,Retail,Kisumu,High
+Hayes-Smith,P89238599,,34834.51,Agriculture,Nairobi,High
+Wallace-Smith,P40101427,2025-05-13,9485.94,Services,Kisumu,Low
+Davis-Stuart,P92722356,2025-03-24,38787.54,Agriculture,Kisumu,High
+"Lawrence, Austin and Abbott",P52234231,2025-06-23,41100.5,Manufacturing,Kisumu,Low
+"Cox, Holloway and Marshall",P94062590,2025-06-08,27390.32,Services,ELDORT,Low
+Diaz LLC,P79014272,2025-11-19,24394.98,services,Nairobi,Low
+"Gillespie, Baker and Valdez",P94835829,2025-10-27,46152.07,Manufacturing,Nairobi,Medium
+Wright Group,P28650132,2025-05-31,23933.02,retail,Nakuru,High
+Jackson LLC,P59431496,2026-01-11,9599.25,Agriculture,Eldort,Medium
+"Davis, Diaz and Adams",P33547013,2026-01-08,13778.48,Services,Kisumu,High
+,P68150525,2026-03-02,-206.4,Agriculture,Kisumu,High
+Brooks Ltd,P20072939,2025-07-16,8506.09,Services,Eldort,High
+Ellis and Sons,P99660153,2025-09-10,21597.74,Agriculture,Nakuru,High
+"Watson, Jackson and Cisneros",P12969578,2025-11-03,49649.49,Manufacturing,Mombasa,Low
+,P06274856,2025-10-24,7866.64,Manufacturing,Eldort,High
+Fitzgerald LLC,P83333103,2025-04-29,26541.3,Services,ELDORT,Low
+Robles-Krause,P52249430,2026-01-05,35671.26,Retail,Nakuru,Low
+Smith-Phillips,P11286806,2025-12-15,-504.81,Manufacturing,NAKURU,High
+Mcdonald-Lane,P18024589,2025-07-11,35085.69,Agriculture,Eldort,Medium
+Joseph-Aguilar,P91760567,2025-09-19,25366.59,agriculture,Kisumu,Medium
+"Brown, Goodwin and Carr",P61324401,2025-05-25,3877.87,retail,Nairobi,Medium
+Baxter LLC,P38917744,2025-11-15,14098.91,Services,Nakuru,High
+"Bradley, Hickman and Riddle",P91015588,2025-11-13,15664.57,Agriculture,Eldort,High
+Spencer-Barr,P07487080,2025-10-11,3631.13,Retail,Eldort,Medium
+Smith-Munoz,P77373297,2025-03-18,12178.78,Agriculture,Eldort,Low
+Franco-Newton,P38221555,2025-07-21,-341.17,Manufacturing,Kisumu,Low
+,P02508872,2025-09-22,10182.2,Agriculture,NAIROBI,Low
+"Hill, Gallagher and Guerra",P53307817,2025-06-21,-472.43,Manufacturing,Mombasa,Low
+Mcfarland-Burns,P58475338,2026-02-04,15928.24,Services,Nakuru,Medium
+Johnson-Castillo,P90366655,2025-08-13,15721.33,Manufacturing,Mombasa,Medium
+Schneider PLC,P23884715,2025-06-17,-754.49,Manufacturing,Kisumu,Low
+Anthony LLC,P52365881,2026-01-27,12859.04,Agriculture,Nairobi,High
+Barry Ltd,P00934818,2025-10-09,27638.61,Services,Eldort,Low
+"Collins, Burns and Chung",P21806425,2025-12-28,28597.79,Agriculture,Kisumu,Medium
+"Thompson, Woods and Thompson",P33987715,,4291.54,retail,KISUMU,High
+"Jackson, Hudson and Smith",P45524615,2025-05-03,17218.49,Agriculture,Nakuru,Low
+Thomas Ltd,P26065912,,30017.95,Manufacturing,Nairobi,High
+Sullivan-Monroe,P73754234,2026-02-14,46015.45,Manufacturing,Mombasa,Low
+Bennett PLC,P12224017,2026-01-03,24745.84,agriculture,Eldort,Medium
+Sanchez Ltd,P03892514,2026-01-25,2512.17,Services,MOMBASA,Low
+Pena and Sons,P00389273,2026-02-08,29062.99,Services,Nairobi,Medium
+Scott LLC,P73804618,2025-04-13,15587.74,Agriculture,Nairobi,Low
+Nguyen-Cooper,P03245049,2025-07-18,35826.94,Manufacturing,Mombasa,Low
+Williams Ltd,P53859624,2026-01-29,15339.1,Retail,NAKURU,Medium
+"Mullen, Bradley and Thomas",P34659057,2025-10-14,41595.61,Agriculture,Eldort,High
+Wilkins-Wells,P29451097,2025-10-04,26265.06,Services,Nakuru,Low
+"Dougherty, Solomon and Carroll",P69964836,,35167.16,Agriculture,Nakuru,Medium
+Yoder Group,P92898054,2025-03-02,37665.17,Agriculture,Nairobi,Low
+Nash-Rice,P83857659,2025-08-11,7851.68,Retail,Eldort,High
+"Maxwell, Kim and Campbell",P05041027,,11066.84,Manufacturing,Kisumu,Low
+"Gray, Oconnor and Russell",P65668184,2025-12-10,48907.15,Services,ELDORT,High
+Rodriguez-Lawson,P89120055,2026-01-31,4309.1,Retail,Nakuru,High
+"Holmes, King and Alvarado",P55403954,2025-12-12,27345.11,retail,Eldort,Low
+Cohen LLC,P07764200,2025-04-10,4239.64,Manufacturing,NAIROBI,Low
+Hernandez-Mason,P87250473,2025-04-25,6852.71,Retail,Kisumu,High
+Jackson PLC,P37439228,2026-01-10,6784.78,Services,Kisumu,Medium
+Rodriguez-Lawson,P89120055,2026-01-31,4309.1,Retail,Nakuru,High
+Moreno and Sons,P52909694,2025-04-15,9091.22,Agriculture,Mombasa,High
+Flores LLC,P13579916,2025-10-29,41658.32,Manufacturing,Nakuru,Low
+Moore LLC,P72951117,2025-04-22,48582.84,Retail,Nairobi,High
+"Bradley, Hickman and Riddle",P91015588,2025-11-13,15664.57,Agriculture,Eldort,High
+Roberts-Silva,P39449286,2025-12-29,3049.61,Services,Nairobi,Medium
+LYNCH LLC,P16270549,2025-05-17,21755.21,SERVICES,Nairobi,Low
+"STANLEY, FLOWERS AND GONZALES",P01819626,2025-11-16,-993.03,AGRICULTURE,Mombasa,High
+WATTS-LEE,P30702071,2025-07-16,10387.91,AGRICULTURE,Mombasa,Medium
+"MAXWELL, KIM AND CAMPBELL",P05041027,,11066.84,MANUFACTURING,Kisumu,Low
+KING PLC,P36294937,2025-07-08,14977.21,AGRICULTURE,Mombasa,Low
+"HILL, GALLAGHER AND GUERRA",P53307817,2025-06-21,-472.43,MANUFACTURING,Mombasa,Low
+GONZALEZ LTD,P28684203,2025-11-11,11937.33,RETAIL,Eldort,Low
+REED PLC,P61525096,2025-07-17,37504.46,SERVICES,Eldort,Medium
+VINCENT GROUP,P64290342,2025-11-02,21708.11,SERVICES,Mombasa,Low
+"BRADSHAW, KNIGHT AND GRIFFITH",P11824834,2025-07-09,-965.72,RETAIL,Kisumu,Low
+MORRIS PLC,P75168417,2025-07-26,44993.32,AGRICULTURE,Kisumu,Low
+ROBLES-KRAUSE,P52249430,2026-01-05,35671.26,RETAIL,Nakuru,Low
+"SOSA, GOMEZ AND TURNER",P38462101,2025-04-17,30240.21,MANUFACTURING,Kisumu,High
+"FARLEY, SMITH AND KIM",P24217858,2025-07-09,13958.83,RETAIL,Eldort,Low
+"PARKER, RAY AND LEE",P78584822,2025-12-26,11923.25,AGRICULTURE,Nairobi,Medium
+"DURAN, PROCTOR AND HUANG",P65789101,2025-03-30,12223.36,RETAIL,Kisumu,Medium
+"MULLEN, BRADLEY AND THOMAS",P34659057,2025-10-14,41595.61,AGRICULTURE,Eldort,High

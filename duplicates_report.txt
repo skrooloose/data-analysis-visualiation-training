@@ -1,0 +1,9 @@
+Duplicates Scenario — Report
+============================
+
+Input file: kra_dirty_data.csv
+Rows before deduplication: 330
+Duplicate rows found:       10
+Rows after deduplication:   320
+
+Note: Only exact full-row duplicates were removed (all columns identical).

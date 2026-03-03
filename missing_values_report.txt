@@ -1,0 +1,27 @@
+Missing Values Scenario — Report
+==================================
+
+Input file: kra_dirty_data.csv
+Rows before cleaning: 330
+Rows after cleaning:  246
+Rows dropped:         84
+
+Missing counts per column (before type coercion):
+  Taxpayer_Name: 14
+  Taxpayer_PIN: 20
+  Filing_Date: 0
+  VAT_Paid: 0
+  Sector: 0
+  Region: 0
+  Risk_Level: 68
+
+Missing counts per column (after coercing VAT_Paid and Filing_Date to numeric/datetime):
+  Taxpayer_Name: 14
+  Taxpayer_PIN: 20
+  Filing_Date: 18
+  VAT_Paid: 0
+  Sector: 0
+  Region: 0
+  Risk_Level: 68
+
+Critical columns used for dropna: ['VAT_Paid', 'Taxpayer_PIN', 'Risk_Level']

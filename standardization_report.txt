@@ -1,0 +1,10 @@
+Standardization Scenario — Report
+==================================
+
+Input file: kra_dirty_data.csv
+Rows before: 330
+Rows after:  330 (no rows removed)
+
+Columns standardized (strip + title case): ['Region', 'Sector', 'Taxpayer_Name']
+
+This script only normalizes text; it does not drop rows.
