@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48977276-3ff2-4fc8-a864-b1c605319b18" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/kra_after_deduplication.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kra_after_deduplication.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kra_after_missing_values.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kra_after_missing_values.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kra_after_standardization.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kra_after_standardization.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kra_after_vat_validation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kra_after_vat_validation.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kra_clean_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kra_dirty_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kra_dirty_data.csv" afterDir="false" />
-    </list>
+    <list default="true" id="48977276-3ff2-4fc8-a864-b1c605319b18" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,24 +16,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "skrooloose"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/skrooloose/data-analysis-visualiation-training.git",
+    "accountId": "aa915894-731c-42f1-81aa-7eac5706029a"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.4.13/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3AQG2pQLL6hyPM6TxHiIAbFD1jM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.generate_random_data.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.generate_random_data.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
