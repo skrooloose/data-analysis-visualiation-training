@@ -5,12 +5,15 @@
 # ============================================================
 
 # You will need specific packages to generate the day. The following packages are necessary tidyverse, lubridate, janitor.
-install.packages(c("tidyverse","lubridate","janitor"))
+#yes
 #The necessary packages should be loaded before using them. The code below can be used to load the packages
 
 library(tidyverse)
 library(lubridate)
 library(janitor)
+library(dplyr)
+library(scales)
+
 
 set.seed(42)
 # set.seed(42) is used to make random number generation reproducible. Setting a seed fixes the starting point of the random number generator so that the same sequence of random numbers is produced each time the code is executed.
@@ -87,12 +90,12 @@ nrow(df)
 # write out
 write_csv(df, "KRA_Synthetic_Filings_2025.csv")
 
-NOTE: Output file: KRA_Synthetic_Filings_2025.csv (created in your working directory)
+#NOTE: Output file: KRA_Synthetic_Filings_2025.csv (created in your working directory)
 
 
-R Code for conducting EDA on the KRA Dataset
+#R Code for conducting EDA on the KRA Dataset
 
-1.	Load Dataset + Quick Overview
+#1.	Load Dataset + Quick Overview
 library(tidyverse)
 library(lubridate)
 library(janitor)
@@ -111,7 +114,7 @@ kra |> summarise(
   avg_gap = mean(compliance_gap)
 )
 
-2.	Statistical Summarization — Mean, Median, Mode, Variance
+#2.	Statistical Summarization — Mean, Median, Mode, Variance
 # Mean/Median/Variance for revenue and taxpaid
 kra |> summarise(
   mean_revenue = mean(revenue),
@@ -145,7 +148,7 @@ kra |> group_by(sector) |>
   ) |>
   arrange(desc(mean_gap))
 
-3.	Identifying Trends (Time Series)
+#3.	Identifying Trends (Time Series)
 # Monthly revenue trend overall
 kra_monthly <- kra |>
   group_by(filing_month) |>
@@ -166,9 +169,11 @@ ggplot(kra_monthly, aes(x = filing_month, y = total_taxpaid)) +
 ggplot(kra_monthly, aes(x = filing_month, y = late_rate)) +
   geom_line() +
   geom_point() +
+  scale_y_continuous(labels = comma) +  # <- converts 5.0e+06 to 5,000,000
+  
   labs(title = "Monthly Late Filing Rate Trend", x = "Month", y = "Late Filing Rate")
 
-4.	Patterns (Sector/Region Comparisons)
+#4.	Patterns (Sector/Region Comparisons)
 # Sector patterns: late filing and compliance gap
 sector_pattern <- kra |>
   group_by(sector) |>
@@ -195,7 +200,7 @@ region_pattern <- kra |>
 
 region_pattern
 
-5.	Outliers (Rule-Based + Visualization)
+#5.	Outliers (Rule-Based + Visualization)
 # Outlier detection using IQR on compliance_gap (positive gaps matter)
 gaps <- kra |> filter(compliance_gap > 0)
 
@@ -210,7 +215,7 @@ outliers <- gaps |> filter(compliance_gap > upper) |>
 
 outliers |> head(10)
 
-6.	Visualizing Distributions — Histogram
+#6.	Visualizing Distributions — Histogram
 ggplot(kra, aes(x = revenue)) +
   geom_histogram(bins = 40) +
   labs(title = "Revenue Distribution (Histogram)", x = "Revenue", y = "Count")
@@ -221,31 +226,34 @@ ggplot(kra, aes(x = revenue)) +
   scale_x_log10() +
   labs(title = "Revenue Distribution (Log Scale)", x = "Revenue (log10)", y = "Count")
 
-7.	Visualizing Distributions — Boxplot
+#7.	Visualizing Distributions — Boxplot
 # Tax paid by sector to spot spread and outliers
 ggplot(kra, aes(x = sector, y = tax_paid)) +
   geom_boxplot() +
   coord_flip() +
   labs(title = "Tax Paid by Sector (Boxplot)", x = "Sector", y = "Tax Paid")
 
-8.	Visualizing Distributions — Density Plot
+#8.	Visualizing Distributions — Density Plot
 ggplot(kra, aes(x = compliance_gap)) +
   geom_density() +
   labs(title = "Compliance Gap Distribution (Density)", x = "Compliance Gap", y = "Density")
 
-9.	 Scatter Plot (Pattern Recognition)
+#9.	 Scatter Plot (Pattern Recognition)
 # Revenue vs tax paid: should be roughly linear
 ggplot(kra, aes(x = revenue, y = tax_paid)) +
   geom_point(alpha = 0.3) +
+  scale_y_continuous(labels = label_number(scale = 1e-6, suffix = "M")) +
   labs(title = "Revenue vs Tax Paid", x = "Revenue", y = "Tax Paid")
 
 # Add a trend line for clearer pattern
 ggplot(kra, aes(x = revenue, y = tax_paid)) +
   geom_point(alpha = 0.25) +
   geom_smooth(method = "lm", se = FALSE) +
+  scale_y_continuous(labels = label_number(scale = 1e-6, suffix = "M")) +
+  scale_x_continuous(labels = label_number(scale = 1e-6, suffix = "M")) +
   labs(title = "Revenue vs Tax Paid (with Trend Line)", x = "Revenue", y = "Tax Paid")
 
-10.	EDA Insight Checklist (Auto-derived summary table)
+#10.	EDA Insight Checklist (Auto-derived summary table)
 insights <- kra |>
   summarise(
     total_revenue = sum(revenue),
